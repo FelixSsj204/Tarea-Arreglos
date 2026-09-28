@@ -8,9 +8,10 @@ package main;
  *
  * @author Felixxx
  */
-public class Principal {
+public class ArreglosTarea {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+       Menu menu1 = new Menu ();
+       menu1.menuProductos();
     }
 }
