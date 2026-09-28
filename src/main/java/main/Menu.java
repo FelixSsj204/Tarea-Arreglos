@@ -40,10 +40,13 @@ public class Menu {
                     arreglo.buscarProducto();
                     break;
                 case 4:
+                    arreglo.venderUnidades();
                     break;
                 case 5:
+                    arreglo.reabastecerUnidades();
                     break;
                 case 6:
+                    arreglo.calcularInventario();
                     break;
                 case 7:
                     JOptionPane.showMessageDialog(null, "Saliendo del programa....");
