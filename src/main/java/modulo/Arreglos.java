@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 public class Arreglos {
 
     //se crea el arreglo de tipo objeto para los productos
-    Productos[] producto = new Productos[1];
+    Productos[] producto = new Productos[10];
     //deficion de la variable cantidad y se inicializa en 0
     private int cantidad = 0;
 
